@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a freshman at Bowdoin College studying biology (ecology, evolution, and marine biology) and math. I code mostly for fun, but it does come in handy here and there for assignments and projects.
+
 #### Stuff I know:
 - Python for Data Analysis
 - Java
