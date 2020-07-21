@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello!
 
 <!--
 **bradynichols/bradynichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Stuff I know:
+- Python for Data Analysis
+- Java
+- HTML/CSS
+- Bird Identification
+
+#### Stuff I'm learning:
+- JavaScript
+- Web Development
+
+Personal website currently under development!
