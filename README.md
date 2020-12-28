@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a freshman at Bowdoin College studying biology (ecology, evolution, and marine biology) and math. I code mostly for fun, but it does come in handy here and there for assignments and projects.
+I (Brady, he/him) am a freshman at Bowdoin College studying biology (ecology, evolution, and marine biology) and math. I code mostly for fun, but it does come in handy here and there for assignments and projects.
 
 #### Stuff I know:
 - Python
@@ -24,7 +24,6 @@ I'm a freshman at Bowdoin College studying biology (ecology, evolution, and mari
 - Bird Identification
 
 #### Stuff I'm learning:
-- JavaScript
-- Web Development
+- Julia
 
 Personal website currently under development!
