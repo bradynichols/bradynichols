@@ -25,5 +25,6 @@ I (Brady, he/him) am a freshman at Bowdoin College studying biology (ecology, ev
 
 #### Stuff I'm learning:
 - Julia
+- Web development
 
-Personal website currently under development!
+Personal website currently in progress!
