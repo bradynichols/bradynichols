@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I (Brady, he/they) am a sophomore at Bowdoin College studying biology (ecology, evolution, and marine biology) and math. I code mostly for fun, but it does come in handy here and there for assignments and projects.
-
-#### Stuff I know:
-- Python
-- Java
-- HTML/CSS
-- Bird Identification
-
-#### Stuff I'm learning:
-- Julia
-- Web development
+I (Brady, he/him) am a sophomore at Bowdoin College studying mathematics and biology and physics and some other things. I code mostly for fun, but it does come in handy here and there for assignments and projects.
 
 Personal website currently in progress!
