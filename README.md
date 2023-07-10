@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I (Brady, he/him) am a sophomore at Bowdoin College studying mathematics and biology and physics and some other things. I code mostly for fun, but it does come in handy here and there for assignments and projects.
+Brady (he/they), senior math/physics major, biology minor at Bowdoin College.
