@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Brady (he/they), senior math/physics major, biology minor at Bowdoin College. Not much to see here, but check out my website!
 
-[bradynichols.github.io](bradynichols.github.io)
+[bradynichols.github.io](https://bradynichols.github.io/)
